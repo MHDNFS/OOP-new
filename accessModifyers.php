@@ -81,7 +81,7 @@
    // The current object of the class is $this now $this refers $father = new Father
    // So $this is used to access properties or methods of the same object.
    // so $this->house() means Call the house() method of this object $father = new Father
-   // if we do not pur $this->house() and if we normally put house() PHP doesn't know which object’s method to call. so the error will come
+   // if we do not put $this->house() and if we normally put house() PHP doesn't know which object’s method to call. so the error will come
 
 
 

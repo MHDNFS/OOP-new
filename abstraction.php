@@ -81,6 +81,10 @@ $son->bike();
 echo "<br>";
 
 
+
+
+// construct method only need to create the object,do not need to call them it will work without calling
+
 class Food{
     function __construct(){
         echo "This is Tasty food.";
